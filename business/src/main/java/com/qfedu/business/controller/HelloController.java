@@ -1,4 +1,4 @@
-package com.ze.business.controller;
+package com.qfedu.business.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.ServiceInstance;

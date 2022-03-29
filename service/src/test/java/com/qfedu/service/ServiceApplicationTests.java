@@ -1,10 +1,10 @@
-package com.ze.business;
+package com.qfedu.service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BusinessApplicationTests {
+class ServiceApplicationTests {
 
     @Test
     void contextLoads() {
